@@ -1,6 +1,8 @@
 jasmine-sample
 ==============
 
-jasmineのサンプルコード
-checkoutしたディレクトリで、以下を実行し対象ファイルを更新する。とテスト実行
+jasmineのサンプルコード<br>
+checkoutしたディレクトリで、以下を実行し対象ファイルを更新するとテスト開始<br>
+<pre>
 $grunt watch
+</pre>
