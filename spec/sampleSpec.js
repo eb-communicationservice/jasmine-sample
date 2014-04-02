@@ -6,6 +6,6 @@ describe("test case name_", function() {
 
      it("should say ", function (){
         var say = foo.say('hello__');
-        expect(say).toEqual("say hello_");
+        expect(say).toEqual("say hello__");
      });
 });
