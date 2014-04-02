@@ -4,7 +4,7 @@ describe("test case name", function() {
          foo = sample.test('hello');
      });
 
-     it("should say", function (){
+     it("should say ", function (){
         var say = foo.say('hello');
         expect(say).toEqual("say hello");
      });
