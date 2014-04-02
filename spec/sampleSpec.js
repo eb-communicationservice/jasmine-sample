@@ -5,7 +5,7 @@ describe("test case name_", function() {
      });
 
      it("should say ", function (){
-        var say = foo.say('hello__');
-        expect(say).toEqual("say hello__");
+        var say = foo.say('hello');
+        expect(say).toEqual("say hello");
      });
 });
