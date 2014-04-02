@@ -1,4 +1,4 @@
-describe("test case name", function() {
+describe("test case name_", function() {
     var foo;
      beforeEach(function() {
          foo = sample.test('hello');
