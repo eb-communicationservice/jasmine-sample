@@ -1,7 +1,7 @@
 describe("test case name", function() {
     var foo;
      beforeEach(function() {
-         foo = sample.test('hallo');
+         foo = sample.test('hello');
      });
 
      it("should say", function (){
